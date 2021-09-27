@@ -5,21 +5,37 @@ Context for each Dataset.
 ### Titanic Dataset:
 
 **survival**: Survival where 0 = No, 1 = Yes
+
 **pclass**: Ticket class where 1 = 1st, 2 = 2nd, 3 = 3rd
+
 **sex**: Sex 
+
 **Age**: Age in years
+
 **sibsp**: # of siblings / spouses aboard the Titanic
+
 **parch**: # of parents / children aboard the Titanic
+
 **ticket**: Ticket number
+
 **fare**: Passenger fare prices (pounds) in 1912
+
 **cabin**: Cabin number
+
 **embarked**: Port of Embarkation where C = Cherbourg, Q = Queenstown, S = Southampton
+
 **class**: Ticket class represented as string value
+
 **who**: Passengers classified based on age, where adults are male or female, and non-adults are child
+
 **adult_male**: Bool if male is adult
+
 **deck**: Deck Level
+
 **embark_town**: Port of Embarkation represented as a string value
+
 **alive** Yes or No is survived
+
 **alone**: Bool if traveled alone, that is no siblings, parents or children
 
 Notes on the Titanic variables:

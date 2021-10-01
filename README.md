@@ -70,7 +70,7 @@ Notes on the Titanic variables:
 #### Flowers and Shrubs datasets:
 **Name** is the name of the plant
 **Plant_Type** designates plant life cycle
-- Perennial - a flower type that reutrns year after year
+- Perennial - a flower type that returns year after year
 - Annual - a flower type that only lasts one season
 - Evergreen - a shrub type that keeps its leaves year round, may or may not flower
 - Flowering - a shrub type that is well known for its flowers.  Flowers are seasonal.

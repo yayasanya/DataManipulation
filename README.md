@@ -55,6 +55,9 @@ Notes on the Titanic variables:
 - Child = daughter, son, stepdaughter, stepson
 - Some children travelled only with a nanny, therefore parch=0 for them.
 
+Resources:  
+- [The dataset for the titanic.csv](https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv)
+- [The context for the dataset](https://www.kaggle.com/c/titanic/data)      
 
 ### Merging Tables Data Sets:
 
@@ -79,3 +82,6 @@ Notes on the Titanic variables:
 - Partial_Sun - 3-6 hours direct sunlight
 - Partial_Shade - 3-6 hours direct sunlight
 - Full_Shade - 3 hours or less of direct sunlight
+
+Resources:
+- This data set and context was created by Courtney Frey for this notebook set.
